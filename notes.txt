@@ -1,0 +1,22 @@
+Difference between Single Page and Multi Page Websites Responses:
+
+Single Page - Only 1 HTML + CSS + JS Response 
+Only 1 reload when site loads
+APIs populate and update that 1 single page with JS.
+We can save a lot of bandwidth and data transportation costs here.
+Saves the burden on the server.
+
+Multi Page - HTML + CSS + JS responses for each website Page
+
+Reload happens every time when we go from one website page to another one.
+
+
+** If we don't have node modules folder already, we can get it ny doing: "npm install"
+
+We keep it under "git ignore folder" as it is preferred to not give others the node module folder while we give them our project.
+
+** Add Bootstrap - A CSS Framework
+
+href="/" guides one to the home directory once it is clicked
+
+^ = version, see package.json file
