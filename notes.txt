@@ -20,3 +20,20 @@ We keep it under "git ignore folder" as it is preferred to not give others the n
 href="/" guides one to the home directory once it is clicked
 
 ^ = version, see package.json file
+
+Props => Properties
+
+./ -> This means the current directory
+
+Named export and Default exports.
+
+Use {} when we want to export something which is not exported by default.
+
+See Video 6 at 7.50 (https://www.youtube.com/watch?v=xvm3X1oyTL8&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=6)
+
+
+Props:
+
+** To import prop-types, use "impt"
+
+isRequired - This makes sure that you have entered a value that is mandatory and is of a particular datatype.
